@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/pharmamastery_app.html" }
+  ]
+}
