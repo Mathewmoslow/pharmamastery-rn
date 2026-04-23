@@ -1,5 +1,6 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/pharmamastery_app.html" }
+    { "source": "/", "destination": "/pharmamastery_ahu.html" },
+    { "source": "/classic", "destination": "/pharmamastery_app.html" }
   ]
 }
